@@ -4,13 +4,13 @@
 // (GET THIS FROM YOUR FIREBASE CONSOLE AFTER CREATING A WEB APP)
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCJp5pC--w-g-L7gRr1uzvN7c9BKKVxBYc",
-  authDomain: "gym-management-system-8cd64.firebaseapp.com",
-  projectId: "gym-management-system-8cd64",
-  storageBucket: "gym-management-system-8cd64.firebasestorage.app",
-  messagingSenderId: "29105806186",
-  appId: "1:29105806186:web:f08d4f8d56420763942313",
-  measurementId: "G-8WWL3MLE9B"
+  apiKey:   YOUR_API KEY
+  authDomain: YOUR_DOMAIN NAME
+  projectId: YOUR_PROJECTID
+  storageBucket: YOUR_BUCKET
+  messagingSenderId: YOUR_MESSAGINGSENDERID
+  appId: YOUR_APPID
+  measurementId: YOUR_MEASREMENTID
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
